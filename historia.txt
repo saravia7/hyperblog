@@ -1,0 +1,2 @@
+este es un cambio a este archivo para probar si git funciona 
+ahora vere un cambio en el estatus de mi repositorio
