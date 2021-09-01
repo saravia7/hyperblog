@@ -9,6 +9,7 @@ El curso de Git y GitHub de Platzi es lo que me hacia falta para triplicar mi sa
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * creado pr el increible platzi team
-*Incluye ejemplos de windows, Linux y Macs
+* Incluye ejemplos de windows, Linux y Macs
+* Disponible para topdas las edades
 
 y como un amable recordatorio: **este readme.md es un chiste** diseñado para el ejemplo. SI LLEGAS ACA NO TE LO TOMES ENSERIO.  Y mejor ve a ver el [curso.](https://platzi.com/blog/como-aprender-arquitectura-frontend/)
